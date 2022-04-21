@@ -27,6 +27,10 @@ This has been done by:
  - TF-IDF : It Extracs Keywords and gives high score to the most relevant words.       
  - Bag Of Words : It tokenizes the texts and counts the occurrences of token and return them as a sparse matrix.
 
+## Modeling 
+As it is a classification problem, to find an appreciate classifier I utilized XGboost, Naive Bayes classifier, and logistic regression. The accuracy of these techniques has been measured with different metrics such as precision, recall, f1-score. 
+As a result 
+
 
 
 
